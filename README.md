@@ -62,3 +62,8 @@ matplotlib
 Pillow
 
 requests
+
+# Contributors:
+@TheWeisGuy
+@RPSeaman
+@mynamebejohn
